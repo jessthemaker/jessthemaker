@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Jess the Maker
-  site_tagline: Creative designer / Dog mom
+  site_tagline: Creative designer & Dog mom
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -15,7 +15,7 @@ menu_settings:
       url: '/blog/'
     - title: 'About me'
       url: '/about'
-    - title: 'Let's talk'
+    - title: 'Lets talk'
       url: '/lets-talk'
 
 grid_settings:
