@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Index
-  site_tagline: A minimal, fixed sidebar grid portfolio Jekyll theme.
+  site_title: Jess the Maker
+  site_tagline: Creative designer / Dog mom
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -13,10 +13,10 @@ menu_settings:
       url: '/'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'About'
+    - title: 'About me'
       url: '/about'
-    - title: 'Contact'
-      url: '/contact'
+    - title: 'Let's t-mealk
+      url: '/lets-talk'
 
 grid_settings:
   overlay_opacity: 0.8
@@ -62,9 +62,9 @@ color_settings:
   text_dark_color: '#2A2F36'
   text_medium_color: '#6C7A89'
   text_light_color: '#ABB7B7'
-  accent_color: '#0C5DF2'
+  accent_color: '#B8DEBE'
   border_color: '#dddddd'
-  overlay_background_color: '#0C5DF2'
+  overlay_background_color: '#B8DEBE'
   overlay_text_color: '#ffffff'
   overlay_accent_color: '#2A2F36'
   error_color: '#D64541'
