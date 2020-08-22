@@ -15,7 +15,7 @@ menu_settings:
       url: '/blog/'
     - title: 'About me'
       url: '/about'
-    - title: 'Let's t-mealk
+    - title: 'Let's talk'
       url: '/lets-talk'
 
 grid_settings:
